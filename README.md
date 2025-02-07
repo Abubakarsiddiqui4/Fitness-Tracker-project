@@ -1,1 +1,1 @@
-# Fitness-Tracker-project
+The Fitness Tracker is a program designed that helps the users track their daily workouts , view progress summaries and save data and load data to the files by applying python programming concepts such as data structures , file handling , fuctions and object oriented programming.
